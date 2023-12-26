@@ -1,0 +1,110 @@
+{
+  "som": "so'm",
+  "header": {
+    "dokonlar": "Do'konlar",
+    "sotuvchiBolish": "Sotuvchi bo'lish",
+    "bizBnAloqa": "Biz bilan aloqa",
+    "katalog": "Katalog",
+    "aksiya": "Aksiya",
+    "izbrinni": "Saralangan",
+    "cart": "Savat",
+    "profil": "Profil",
+    "login": "Kirish",
+    "search": "Mahsulotlarni qidirish",
+    "basket": "Sizning savatingiz",
+    "close": "Yopish",
+    "your": "Sizda",
+    "basketItem": "ta tovar mavjud",
+    "viewCart": "Savatchani ko'rish"
+  },
+  "banner": {
+    "topText": "Yangiliklardan xabardor bo'ling",
+    "kunTovari": "Kun mahsulotlari",
+    "koproqBilish": "Qo'shimcha ma'lumot"
+  },
+  "topCategories": {
+    "topCategory": "Yuqori toifalar",
+    "allCategories": "Barcha toifalar"
+  },
+  "laptop": {
+    "title1": "Har qanday did uchun noutbuklar",
+    "title2": "Dasturchilar uchun noutbuklar"
+  },
+  "newProds": {
+    "title": "Yangi tovarlar",
+    "allProds": "Barcha mahsulotlar"
+  },
+  "productCard": {
+    "discount": "chegirma",
+    "superPrice": "Super narx",
+    "addCart": "Savatga"
+  },
+  "recProduct": {
+    "title": "Sizga tavsiya qilamiz"
+  },
+  "supplier": {
+    "title1": "Milli da yetkazib beruvchiga aylaning",
+    "title2": "Tovar va mahsulotlaringizni bizning ulgurji platformamizda qulay va oson soting.",
+    "btn": "Yetkazib beruvchiga aylaning"
+  },
+  "categoryDetail": {
+    "popular": "Avval mashhur",
+    "prod": "mahsulot",
+    "price": "Narx",
+    "sbros": "Tozalash",
+    "brend": "Brend",
+    "loadMore": "Ko'proq ko'rsatish",
+    "models": "Modellar"
+  },
+  "basket": {
+    "empty1": "Savat bo'sh",
+    "empty2": "Mahsulotlarni tanlashni davom ettirish uchun shu yerni bosing.",
+    "title": "Savat",
+    "selectAll": "Barchasini tanlash",
+    "delete": "Oʻchirish",
+    "all": "Jami",
+    "prod": "Mahsulotlar",
+    "item": "ta",
+    "order": "Buyurtmani rasmiylashtirish",
+    "title2": "Men savdo maydonchasidan foydalanish shartlari va qaytarish qoidalariga roziman",
+    "color": "Rangi",
+    "shop": "Magazin"
+  },
+  "productDetail": {
+    "magazin": "Do'kon",
+    "korotko": "Mahsulot haqida qisqacha",
+    "product": "Mahsulot haqida",
+    "brand": "Brend",
+    "model": "Model",
+    "sertificate": "Sertifikat",
+    "noPrice": "Narxi yo'q",
+    "addCart": "Savatga qo'shish",
+    "buyNow": "Hozir sotib olish",
+    "count": "Miqdori",
+    "sotuvda": "Sotuvda mavjud",
+    "opisania": "Tavsif",
+    "review": "Mijozlarning sharhlari",
+    "question": "Xaridorlarning savollar",
+    "questionText": "Agar sizda biron bir savol bo'lsa, iltimos, bizga yuboring, biz javob beramiz",
+    "give": "Savol berish",
+    "reviewGive": "Bu yerda hali hech qanday izoh yo'q, birinchi bo'ling",
+    "reviewBtn": "Fikr qoldiring"
+  },
+  "order": {
+    "title": "Xarid qilish",
+    "user": "Sizning ma'lumotlaringiz",
+    "tel": "Telefon raqamingiz",
+    "name": "Ismingiz",
+    "lastName": "Familiyangiz",
+    "order": "Sizning buyurtmangiz",
+    "change": "O'zgartirish",
+    "oplata": "To'lov usullari",
+    "fikr": "Sizning fikringiz",
+    "write": "Sharhingizni yozing",
+    "send": "Yuborish",
+    "tasdiqlash": "Buyurtmani rasmiylashtirish",
+    "text": "Men savdo maydonchasidan foydalanish shartlari va qaytarish qoidalariga roziman",
+    "alert": "Buyurtmangiz qabul qilindi",
+    "success": "Muvaffaqiyatli"
+  }
+}

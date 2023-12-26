@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway";
+  font-feature-settings: "pnum" on, "lnum" on;
+}
+
+/* @media screen and (min-width: 21rem) {
+  .container-div {
+    padding-inline-start: 50px;
+    padding-inline-end: 50px;
+  }
+}
+@media screen and (min-width: 48rem) {
+  .container-div {
+    padding-inline-start: 50px;
+    padding-inline-end: 50px;
+  }
+}
+@media screen and (min-width: 90rem) {
+  .container-div {
+    padding-inline: 100px;
+  }
+} */
+
+.container-tablet {
+  padding-inline: 50px;
+}
+.container-mobile {
+  padding-inline: 24px;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  appearance: textfield;
+}
+
+.scrollbar-style {
+  scrollbar-width: thin;
+  scrollbar-color: #00b709 #e5e7eb;
+}
+
+.scrollbar-style::-webkit-scrollbar-track {
+  background: #e5e7eb;
+}
+
+.scrollbar-style::-webkit-scrollbar-thumb {
+  background: #00b709;
+  border-radius: 6px;
+}
+
+.scrollbar-style {
+  scrollbar-width: thin;
+  scrollbar-color: #00b709 #e5e7eb;
+}
+.scrollbar-style::-webkit-scrollbar-thumb {
+  background: #00b709;
+  border-radius: 6px;
+}
+
+.scrollbar-style::-webkit-scrollbar-track {
+  background: #e5e7eb;
+}
+
+table,th,td{
+  border-bottom:1px solid gray;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+}
+.profile-link.active{
+  color:#00B709
+}
+/* input[type="checkbox"] {
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+} */

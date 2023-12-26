@@ -1,0 +1,13 @@
+export { default as Main } from './Main/Main';
+export { default as Login } from './Login/Login';
+export { default as Category } from './Category/Category';
+export { default as Profil } from './Profil/Profil';
+export { default as ReviewForm } from './FormProductDetail/ReviewForm';
+export { default as QuestionForm } from './FormProductDetail/QuestionForm';
+export { default as NotificationProfil } from './Profil/mobileComponent/NotificationProfil';
+export { default as MyDetail } from './Profil/mobileComponent/MyDetail';
+export { default as ProductDetail } from './productDetail/ProductDetail';
+export { default as CategoryDetail } from './categoryDetail/CategoryDetail';
+export { default as Basket } from './Basket/Basket';
+export { default as Order } from './Order/Order';
+export { default as ChangeName } from './Profil/ChangeProfile/ChangeName';
