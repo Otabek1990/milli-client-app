@@ -237,7 +237,7 @@ function ProductDetailUi({ product }) {
             }
           </div>
         </div>
-        <div className="col-span-3 sm:block hidden">
+        <div className="col-span-3 sm:block ">
           <div className="rounded-xl border border-solid px-5 py-7 ">
             <div className="flex justify-between items-center">
               <h2 className="font-bold">
